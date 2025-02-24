@@ -1,0 +1,9 @@
+chrome_profile/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+chromedriver-mac-x64/
+chromedriver-mac-x64.zip
+chromedriver
